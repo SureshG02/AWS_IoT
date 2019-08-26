@@ -17,3 +17,5 @@ If you press again same button it will start all instances.
 # Future development
 
 <img src="https://github.com/SureshG02/AWS_IoT/blob/master/src/images/Future.PNG" height="400" width="800">
+
+In this demo email feature has been developed where user can invoke lambda function by sending email.
