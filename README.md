@@ -13,3 +13,5 @@ Step 2: Be anywhere just press IoT button and stop all instances.
 <img src="https://github.com/SureshG02/AWS_IoT/blob/master/src/images/Step%202.png" height="500" width="800">
 
 If you press again same button it will start all instances.
+
+#Future development
